@@ -66,4 +66,8 @@ Used `qcut()` to bin Star ratings. <br>
 The most important factors picked out by LogisticRegression model:
 - MyKuali and Master Kong brands
 - From Indonesia, Singapore, Taiwan and Malaysia
-- Not spicy, no chicken, no beef, no seafood
+- Not served as a Pack, Bowl, Cup or Tray
+
+The most detrimental factors picked out by LogisticRegression model:
+- Ve Wong, Acecook and Ottogi brands
+- From Thailand
